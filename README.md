@@ -9,7 +9,7 @@ A proof-of-concept LLM that is fine-tuned to be an effective browser agent, whil
 
 # Video Demo
 Here we have two terminals, the left is the user that has downloaded a malicious web agent LLM. On the right is the hacker with a terminal on their web server. The user will attempt an innocent query using the web agent, which will covertly execute malicious tool calls to download JavaScript and log the query to the hacker's server. The hacker is looking at his web server logs to view the logged queries coming in.
-![Alt Text](https://github.com/jalbrethsen/double-agent/demo/demo.gif)
+![](demo/demo.gif)
 
 
 # Getting Started
